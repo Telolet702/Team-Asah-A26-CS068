@@ -1,0 +1,16 @@
+# File rahasia & API Key
+.env
+.env.local
+
+# Dependencies & Virtual Environment
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Database lokal sementara & file sistem
+*.sqlite3
+*.db
+.DS_Store
+Thumbs.db
